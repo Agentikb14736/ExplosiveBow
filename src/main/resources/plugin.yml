@@ -1,0 +1,6 @@
+name: ExplosiveBow
+version: 1.0
+main: me.explosivebow.Main
+commands:
+  explosivebow:
+    description: Gives an explosive bow
